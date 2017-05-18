@@ -3,7 +3,7 @@
 3.git add .//将所有文件添加到仓库
 4.git commit -m "提交文件"//这样本地仓库就建好了
 5.关联github：
-git remote rm origin
+//git remote rm origin
 git remote add origin git@github.com:datouerhao/Seckill.git
 6.上传本地代码
 git push -u origin master
